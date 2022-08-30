@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86006402029",
+    "firebase_url": "https://burger-nook.firebaseio.com",
+    "project_id": "burger-nook",
+    "storage_bucket": "burger-nook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86006402029:android:cc50af1718dce90660b5e4",
+        "android_client_info": {
+          "package_name": "com.burgernook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86006402029-5rtpi607u0ouj8v5truedsroik3dcsg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOftHaQaT0kpvF8mRUXF8G3IV3iOMEkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86006402029-5rtpi607u0ouj8v5truedsroik3dcsg4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86006402029-n3rvqftb45g55lpu1860ldev6h0ho57l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.burgernook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
